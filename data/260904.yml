@@ -1,22 +1,24 @@
 about:
-  description: A TUI Git client inspired by Magit
+  description:
+  |
+    A TUI Git client inspired by Magit
   license: MIT
   homepage: 
   head: 53edd1c
   archived: false
   latestVersion: v0.43.0
-  collectedAt: 2026-09-04T04:56:34Z
+  collectedAt: 2026-09-04T19:52:18Z
 timeline:
   created: 2023-12-23
   lastCommit: 2026-08-22
   lastRelease: 2026-07-11
 popularity:
-  star: 2906
+  star: 2905
   watcher: 10
-  fork: 162
+  fork: 163
   release: 56
   contributor: 50
-  pullRequest: 164
+  pullRequest: 369
   issue: 168
 language:
   Rust: 618659
@@ -24,7 +26,7 @@ language:
   Shell: 744
   Makefile: 425
   Dockerfile: 348
-totalLine: 622585
+totalBytes: 622585
 recent:
   last30d:
     since: 2026-08-05
@@ -34,6 +36,14 @@ recent:
     closedIssue: 0
     openIssue: 1
     commit: 4
+  last60d:
+    since: 2026-07-06
+    release: 1
+    mergedPR: 8
+    openPR: 3
+    closedIssue: 1
+    openIssue: 1
+    commit: 26
   last90d:
     since: 2026-06-06
     release: 1
@@ -58,3 +68,21 @@ recent:
     closedIssue: 15
     openIssue: 10
     commit: 164
+  last720d:
+    since: 2024-09-14
+    release: 21
+    mergedPR: 114
+    openPR: 15
+    closedIssue: 48
+    openIssue: 31
+    commit: 346
+total:
+  release: 56
+  mergedPR: 205
+  openPR: 15
+  closedIssue: 123
+  openIssue: 45
+  commit: 1228
+---
+---
+
