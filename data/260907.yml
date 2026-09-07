@@ -5,13 +5,13 @@ about:
   head: 53edd1c
   archived: false
   latestVersion: "v0.43.0"
-  collectedAt: 2026-09-07T04:47:57Z
+  collectedAt: 2026-09-07T19:34:46Z
 timeline:
   created: 2023-12-23
   lastCommit: 2026-08-22
   lastRelease: 2026-07-11
 popularity:
-  star: 2907
+  star: 2906
   watcher: 10
   fork: 163
   release: 56
@@ -83,7 +83,7 @@ total:
   commit: 1228
 ---
 path: /home/runner/.x-repo/github.com/altsem/gitu
-collectedAt: 2026-09-07T04:48:03Z
+collectedAt: 2026-09-07T19:34:49Z
 loc:
   Rust:
     code: 17053
@@ -134,7 +134,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:48:26+00:00
+  collectedAt: 2026-09-07T19:34:49+00:00
   platform:
     darwin/arm64:
       name:  gitu-v0.43.0-aarch64-apple-darwin.zip
