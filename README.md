@@ -37,7 +37,7 @@ Total: **17,538** lines of code across **111** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,906 · **Forks**: 163 · **Open issues**: 168 · **Contributors**: 50
+- **Stars**: 2,909 · **Forks**: 163 · **Open issues**: 168 · **Contributors**: 50
 
 ## Totals (cumulative)
 
@@ -85,4 +85,4 @@ Install metadata for gitu lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:48:33Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:21:42Z._
