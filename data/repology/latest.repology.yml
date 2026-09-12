@@ -1,3 +1,25 @@
+- repo: nix_stable_25_05
+  srcname: gitu
+  visiblename: gitu
+  version: 0.31.0
+  origversion: null
+  status: outdated
+  summary: TUI Git client inspired by Magit
+  maintainers:
+    - evanjrichter@gmail.com
+  licenses:
+    - MIT
+- repo: arch
+  subrepo: extra
+  srcname: gitu
+  binname: gitu
+  visiblename: gitu
+  version: 0.43.0
+  origversion: 0.43.0-2
+  status: newest
+  summary: A TUI Git client inspired by Magit
+  licenses:
+    - MIT
 - repo: alpine_3_23
   subrepo: community
   srcname: gitu
@@ -91,17 +113,6 @@
     - MIT
   categories:
     - Development/Tools
-- repo: arch
-  subrepo: extra
-  srcname: gitu
-  binname: gitu
-  visiblename: gitu
-  version: 0.43.0
-  origversion: 0.43.0-2
-  status: newest
-  summary: A TUI Git client inspired by Magit
-  licenses:
-    - MIT
 - repo: aur
   srcname: gitu-git
   binname: gitu-git
@@ -151,9 +162,9 @@
   srcname: devel/gitu
   binname: gitu
   visiblename: gitu
-  version: 0.41.0
+  version: 0.43.0
   origversion: null
-  status: outdated
+  status: newest
   summary: A TUI Git client inspired by Magit
   maintainers:
     - therealketo@github
@@ -239,17 +250,6 @@
   srcname: gitu
   visiblename: gitu
   version: 0.26.0
-  origversion: null
-  status: outdated
-  summary: TUI Git client inspired by Magit
-  maintainers:
-    - evanjrichter@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: gitu
-  visiblename: gitu
-  version: 0.31.0
   origversion: null
   status: outdated
   summary: TUI Git client inspired by Magit
