@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6153448,
       "digest": "sha256:9debbc715166f038cf86f80cc4602f04efaf10ef173329286a592cf2826f9be3",
-      "download_count": 269,
+      "download_count": 272,
       "created_at": "2026-07-11T18:31:34Z",
       "updated_at": "2026-07-11T18:31:34Z",
       "browser_download_url": "https://github.com/altsem/gitu/releases/download/v0.43.0/gitu-v0.43.0-x86_64-pc-windows-msvc.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6320930,
       "digest": "sha256:52c39e94e232d126d1ed37943de943b7e91df5f3749a2f86253e467d226d3741",
-      "download_count": 210,
+      "download_count": 213,
       "created_at": "2026-07-11T18:31:34Z",
       "updated_at": "2026-07-11T18:31:34Z",
       "browser_download_url": "https://github.com/altsem/gitu/releases/download/v0.43.0/gitu-v0.43.0-x86_64-unknown-linux-gnu.zip"
