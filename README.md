@@ -47,12 +47,12 @@ Total: **17,538** lines of code across **111** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 2 | 2 | 0 | 1 | 1 |
-| last60d | 2026-07-15 | 0 | 7 | 3 | 1 | 1 | 24 |
-| 90d | 2026-06-15 | 1 | 8 | 3 | 1 | 2 | 26 |
-| last180d | 2026-03-17 | 2 | 17 | 5 | 5 | 7 | 36 |
-| 360d | 2025-09-18 | 7 | 64 | 15 | 15 | 10 | 148 |
-| last720d | 2024-09-23 | 21 | 114 | 15 | 46 | 30 | 346 |
+| 30d | 2026-08-15 | 0 | 2 | 2 | 0 | 1 | 1 |
+| last60d | 2026-07-16 | 0 | 7 | 3 | 1 | 1 | 24 |
+| 90d | 2026-06-16 | 1 | 8 | 3 | 1 | 2 | 26 |
+| last180d | 2026-03-18 | 2 | 17 | 5 | 5 | 7 | 36 |
+| 360d | 2025-09-19 | 7 | 63 | 15 | 15 | 10 | 148 |
+| last720d | 2024-09-24 | 21 | 114 | 15 | 45 | 28 | 346 |
 
 ## Release assets
 
@@ -64,18 +64,6 @@ Total: **17,538** lines of code across **111** files in the top 5 languages.
 | [gitu-v0.43.0-x86_64-unknown-linux-gnu.zip](https://github.com/altsem/gitu/releases/download/v0.43.0/gitu-v0.43.0-x86_64-unknown-linux-gnu.zip) | 6.0 MiB | `native/linux/x64/glibc` |
 | [gitu-v0.43.0-x86_64-unknown-linux-musl.zip](https://github.com/altsem/gitu/releases/download/v0.43.0/gitu-v0.43.0-x86_64-unknown-linux-musl.zip) | 6.0 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **29** distros on [repology.org](https://repology.org/project/gitu). **17** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.43.0` | ✅ latest |
-| Homebrew | `0.43.0` | ✅ latest |
-| Nix unstable | `0.43.0` | ✅ latest |
-| Void | `0.43.0` | ✅ latest |
-| Alpine edge | `0.43.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for gitu lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gitu` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -85,4 +73,4 @@ Install metadata for gitu lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:58:51Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:29:13Z._
