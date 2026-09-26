@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6078315,
       "digest": "sha256:19fa3fbaf79736f07eefc1fd9b163a47f40111ba4f6fe256796006cc62cdd70f",
-      "download_count": 159,
+      "download_count": 165,
       "created_at": "2026-07-11T18:31:34Z",
       "updated_at": "2026-07-11T18:31:34Z",
       "browser_download_url": "https://github.com/altsem/gitu/releases/download/v0.43.0/gitu-v0.43.0-aarch64-apple-darwin.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5954889,
       "digest": "sha256:abf5ae48f991c3d8ae1dc98ba03bb8d5827b954ff56352008cf90b1c5eeac6d0",
-      "download_count": 30,
+      "download_count": 33,
       "created_at": "2026-07-11T18:31:34Z",
       "updated_at": "2026-07-11T18:31:34Z",
       "browser_download_url": "https://github.com/altsem/gitu/releases/download/v0.43.0/gitu-v0.43.0-x86_64-apple-darwin.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6153448,
       "digest": "sha256:9debbc715166f038cf86f80cc4602f04efaf10ef173329286a592cf2826f9be3",
-      "download_count": 295,
+      "download_count": 301,
       "created_at": "2026-07-11T18:31:34Z",
       "updated_at": "2026-07-11T18:31:34Z",
       "browser_download_url": "https://github.com/altsem/gitu/releases/download/v0.43.0/gitu-v0.43.0-x86_64-pc-windows-msvc.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6320930,
       "digest": "sha256:52c39e94e232d126d1ed37943de943b7e91df5f3749a2f86253e467d226d3741",
-      "download_count": 262,
+      "download_count": 272,
       "created_at": "2026-07-11T18:31:34Z",
       "updated_at": "2026-07-11T18:31:34Z",
       "browser_download_url": "https://github.com/altsem/gitu/releases/download/v0.43.0/gitu-v0.43.0-x86_64-unknown-linux-gnu.zip"
