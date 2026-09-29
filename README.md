@@ -47,12 +47,12 @@ Total: **17,538** lines of code across **111** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-30 | 0 | 3 | 5 | 0 | 1 | 4 |
-| 90d | 2026-06-30 | 1 | 8 | 6 | 1 | 1 | 26 |
-| last180d | 2026-04-01 | 2 | 13 | 7 | 4 | 7 | 35 |
-| 360d | 2025-10-03 | 6 | 57 | 18 | 14 | 9 | 128 |
-| last720d | 2024-10-08 | 21 | 111 | 18 | 43 | 27 | 346 |
+| 30d | 2026-08-30 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-31 | 0 | 3 | 5 | 0 | 1 | 4 |
+| 90d | 2026-07-01 | 1 | 8 | 6 | 1 | 1 | 26 |
+| last180d | 2026-04-02 | 2 | 13 | 7 | 4 | 7 | 35 |
+| 360d | 2025-10-04 | 6 | 57 | 18 | 14 | 9 | 128 |
+| last720d | 2024-10-09 | 21 | 111 | 18 | 43 | 27 | 346 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for gitu lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:33:41Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:51:35Z._
