@@ -14,12 +14,12 @@ x install gitu
 
 ## Code insight
 
-Total: **17,538** lines of code across **111** files in the top 5 languages.
+Total: **17,596** lines of code across **111** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 17,053 | 331 | 2,791 | 103 |
-| Toml | 374 | 223 | 53 | 4 |
+| Rust | 17,110 | 332 | 2,802 | 103 |
+| Toml | 375 | 225 | 53 | 4 |
 | Nix | 63 | 0 | 8 | 1 |
 | Sh | 17 | 2 | 6 | 2 |
 | Makefile | 14 | 2 | 5 | 1 |
@@ -32,27 +32,27 @@ Total: **17,538** lines of code across **111** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.43.0` (2026-07-11)
-- **Last commit**: 2026-08-22
+- **Last commit**: 2026-09-30
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 2,922 · **Forks**: 165 · **Open issues**: 168 · **Contributors**: 50
+- **Stars**: 2,923 · **Forks**: 165 · **Open issues**: 168 · **Contributors**: 50
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 205 · **Open PRs**: 18 · **Closed issues**: 123 · **Open issues**: 45 · **Commits**: 1228
+- **Releases**: 56 · **Merged PRs**: 206 · **Open PRs**: 17 · **Closed issues**: 123 · **Open issues**: 45 · **Commits**: 1230
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-08-01 | 0 | 3 | 5 | 0 | 1 | 4 |
-| 90d | 2026-07-02 | 1 | 8 | 6 | 1 | 1 | 26 |
-| last180d | 2026-04-03 | 2 | 13 | 7 | 4 | 6 | 35 |
-| 360d | 2025-10-05 | 6 | 56 | 18 | 14 | 9 | 128 |
-| last720d | 2024-10-10 | 21 | 111 | 18 | 43 | 27 | 346 |
+| 30d | 2026-09-01 | 0 | 1 | 1 | 0 | 0 | 2 |
+| last60d | 2026-08-02 | 0 | 4 | 4 | 0 | 1 | 6 |
+| 90d | 2026-07-03 | 1 | 9 | 5 | 1 | 1 | 28 |
+| last180d | 2026-04-04 | 2 | 14 | 5 | 4 | 6 | 37 |
+| 360d | 2025-10-06 | 6 | 56 | 17 | 14 | 9 | 130 |
+| last720d | 2024-10-11 | 21 | 112 | 17 | 43 | 27 | 348 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for gitu lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:45:21Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T05:58:42Z._
