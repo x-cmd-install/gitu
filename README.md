@@ -37,7 +37,7 @@ Total: **17,596** lines of code across **111** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,937 · **Forks**: 168 · **Open issues**: 169 · **Contributors**: 50
+- **Stars**: 2,939 · **Forks**: 168 · **Open issues**: 169 · **Contributors**: 50
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **17,596** lines of code across **111** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 1 | 1 | 0 | 1 | 1 |
-| last60d | 2026-08-23 | 0 | 1 | 2 | 0 | 1 | 3 |
-| 90d | 2026-07-24 | 0 | 8 | 5 | 0 | 2 | 15 |
-| last180d | 2026-04-25 | 2 | 12 | 5 | 4 | 6 | 35 |
-| 360d | 2025-10-27 | 5 | 51 | 17 | 14 | 9 | 110 |
-| last720d | 2024-11-01 | 20 | 109 | 17 | 43 | 26 | 324 |
+| 30d | 2026-09-23 | 0 | 1 | 1 | 0 | 1 | 1 |
+| last60d | 2026-08-24 | 0 | 1 | 2 | 0 | 1 | 3 |
+| 90d | 2026-07-25 | 0 | 8 | 5 | 0 | 2 | 15 |
+| last180d | 2026-04-26 | 2 | 12 | 5 | 4 | 6 | 35 |
+| 360d | 2025-10-28 | 5 | 51 | 17 | 14 | 9 | 110 |
+| last720d | 2024-11-02 | 20 | 108 | 17 | 43 | 26 | 324 |
 
 ## Release assets
 
@@ -64,6 +64,18 @@ Total: **17,596** lines of code across **111** files in the top 5 languages.
 | [gitu-v0.43.0-x86_64-unknown-linux-gnu.zip](https://github.com/altsem/gitu/releases/download/v0.43.0/gitu-v0.43.0-x86_64-unknown-linux-gnu.zip) | 6.0 MiB | `native/linux/x64/glibc` |
 | [gitu-v0.43.0-x86_64-unknown-linux-musl.zip](https://github.com/altsem/gitu/releases/download/v0.43.0/gitu-v0.43.0-x86_64-unknown-linux-musl.zip) | 6.0 MiB | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **29** distros on [repology.org](https://repology.org/project/gitu). **18** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.43.0` | ✅ latest |
+| Homebrew | `0.43.0` | ✅ latest |
+| Nix unstable | `0.43.0` | ✅ latest |
+| Void | `0.43.0` | ✅ latest |
+| Alpine edge | `0.43.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for gitu lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gitu` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -73,4 +85,4 @@ Install metadata for gitu lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:49:14Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:54:12Z._
