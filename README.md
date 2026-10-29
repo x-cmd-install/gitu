@@ -31,50 +31,50 @@ Total: **18,945** lines of code across **113** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.43.0` (2026-07-11)
-- **Last commit**: 2026-10-26
+- **Latest**: `v0.44.0` (2026-10-28)
+- **Last commit**: 2026-10-28
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 2,940 · **Forks**: 169 · **Open issues**: 170 · **Contributors**: 51
+- **Stars**: 2,941 · **Forks**: 170 · **Open issues**: 170 · **Contributors**: 51
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 209 · **Open PRs**: 14 · **Closed issues**: 123 · **Open issues**: 47 · **Commits**: 1238
+- **Releases**: 57 · **Merged PRs**: 209 · **Open PRs**: 14 · **Closed issues**: 123 · **Open issues**: 47 · **Commits**: 1239
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 1 | 0 | 0 | 2 | 4 |
-| last60d | 2026-08-29 | 0 | 3 | 0 | 0 | 2 | 10 |
-| 90d | 2026-07-30 | 0 | 7 | 2 | 0 | 3 | 15 |
-| last180d | 2026-05-01 | 2 | 15 | 3 | 3 | 7 | 42 |
-| 360d | 2025-11-02 | 5 | 52 | 14 | 14 | 10 | 114 |
-| last720d | 2024-11-07 | 19 | 111 | 14 | 42 | 27 | 329 |
+| 30d | 2026-09-29 | 1 | 1 | 0 | 0 | 2 | 5 |
+| last60d | 2026-08-30 | 1 | 3 | 0 | 0 | 2 | 11 |
+| 90d | 2026-07-31 | 1 | 7 | 2 | 0 | 3 | 16 |
+| last180d | 2026-05-02 | 3 | 15 | 3 | 3 | 7 | 43 |
+| 360d | 2025-11-03 | 6 | 52 | 14 | 14 | 10 | 115 |
+| last720d | 2024-11-08 | 20 | 111 | 14 | 42 | 27 | 330 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [gitu-v0.43.0-aarch64-apple-darwin.zip](https://github.com/altsem/gitu/releases/download/v0.43.0/gitu-v0.43.0-aarch64-apple-darwin.zip) | 5.8 MiB | `native/darwin/arm64` |
-| [gitu-v0.43.0-x86_64-apple-darwin.zip](https://github.com/altsem/gitu/releases/download/v0.43.0/gitu-v0.43.0-x86_64-apple-darwin.zip) | 5.7 MiB | `native/darwin/x64` |
-| [gitu-v0.43.0-x86_64-pc-windows-msvc.zip](https://github.com/altsem/gitu/releases/download/v0.43.0/gitu-v0.43.0-x86_64-pc-windows-msvc.zip) | 5.9 MiB | `native/win/x64` |
-| [gitu-v0.43.0-x86_64-unknown-linux-gnu.zip](https://github.com/altsem/gitu/releases/download/v0.43.0/gitu-v0.43.0-x86_64-unknown-linux-gnu.zip) | 6.0 MiB | `native/linux/x64/glibc` |
-| [gitu-v0.43.0-x86_64-unknown-linux-musl.zip](https://github.com/altsem/gitu/releases/download/v0.43.0/gitu-v0.43.0-x86_64-unknown-linux-musl.zip) | 6.0 MiB | `native/linux/x64/musl` |
+| [gitu-v0.44.0-aarch64-apple-darwin.zip](https://github.com/altsem/gitu/releases/download/v0.44.0/gitu-v0.44.0-aarch64-apple-darwin.zip) | 5.9 MiB | `native/darwin/arm64` |
+| [gitu-v0.44.0-x86_64-apple-darwin.zip](https://github.com/altsem/gitu/releases/download/v0.44.0/gitu-v0.44.0-x86_64-apple-darwin.zip) | 5.8 MiB | `native/darwin/x64` |
+| [gitu-v0.44.0-x86_64-pc-windows-msvc.zip](https://github.com/altsem/gitu/releases/download/v0.44.0/gitu-v0.44.0-x86_64-pc-windows-msvc.zip) | 6.0 MiB | `native/win/x64` |
+| [gitu-v0.44.0-x86_64-unknown-linux-gnu.zip](https://github.com/altsem/gitu/releases/download/v0.44.0/gitu-v0.44.0-x86_64-unknown-linux-gnu.zip) | 6.4 MiB | `native/linux/x64/glibc` |
+| [gitu-v0.44.0-x86_64-unknown-linux-musl.zip](https://github.com/altsem/gitu/releases/download/v0.44.0/gitu-v0.44.0-x86_64-unknown-linux-musl.zip) | 6.4 MiB | `native/linux/x64/musl` |
 
 ## Distribution status
 
-Reported by **29** distros on [repology.org](https://repology.org/project/gitu). **18** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **29** distros on [repology.org](https://repology.org/project/gitu). **5** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `0.43.0` | ✅ latest |
-| Homebrew | `0.43.0` | ✅ latest |
-| Nix unstable | `0.43.0` | ✅ latest |
-| Void | `0.43.0` | ✅ latest |
-| Alpine edge | `0.43.0` | ✅ latest |
+| Arch | `0.44.0` | ✅ latest |
+| Homebrew | `0.44.0` | ✅ latest |
+| Nix unstable | `0.43.0` | ⚠️ outdated |
+| Void | `0.43.0` | ⚠️ outdated |
+| Alpine edge | `0.43.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -85,4 +85,4 @@ Install metadata for gitu lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:44:51Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T05:56:32Z._
