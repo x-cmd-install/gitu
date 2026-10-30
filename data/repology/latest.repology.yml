@@ -1,18 +1,7 @@
-- repo: nix_stable_24_05
+- repo: nix_stable_25_11
   srcname: gitu
   visiblename: gitu
-  version: 0.20.1
-  origversion: null
-  status: outdated
-  summary: A TUI Git client inspired by Magit
-  maintainers:
-    - evanjrichter@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: gitu
-  visiblename: gitu
-  version: 0.26.0
+  version: 0.38.0
   origversion: null
   status: outdated
   summary: TUI Git client inspired by Magit
@@ -20,17 +9,13 @@
     - evanjrichter@gmail.com
   licenses:
     - MIT
-- repo: nix_stable_25_05
+- repo: homebrew
   srcname: gitu
   visiblename: gitu
-  version: 0.31.0
+  version: HEAD
   origversion: null
-  status: outdated
+  status: rolling
   summary: TUI Git client inspired by Magit
-  maintainers:
-    - evanjrichter@gmail.com
-  licenses:
-    - MIT
 - repo: alpine_3_23
   subrepo: community
   srcname: gitu
@@ -158,9 +143,9 @@
   srcname: devel/gitu
   binname: gitu
   visiblename: devel/gitu
-  version: 0.43.0
-  origversion: 0.43.0_3
-  status: outdated
+  version: 0.44.0
+  origversion: null
+  status: newest
   summary: TUI Git client inspired by Magit
   maintainers:
     - yuri@freebsd.org
@@ -172,13 +157,6 @@
   version: 0.44.0
   origversion: null
   status: newest
-  summary: TUI Git client inspired by Magit
-- repo: homebrew
-  srcname: gitu
-  visiblename: gitu
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: TUI Git client inspired by Magit
 - repo: macports
   srcname: devel/gitu
@@ -257,10 +235,32 @@
   summary: A TUI Git client inspired by Magit (mingw-w64)
   licenses:
     - spdx:MIT
-- repo: nix_stable_25_11
+- repo: nix_stable_24_05
   srcname: gitu
   visiblename: gitu
-  version: 0.38.0
+  version: 0.20.1
+  origversion: null
+  status: outdated
+  summary: A TUI Git client inspired by Magit
+  maintainers:
+    - evanjrichter@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: gitu
+  visiblename: gitu
+  version: 0.26.0
+  origversion: null
+  status: outdated
+  summary: TUI Git client inspired by Magit
+  maintainers:
+    - evanjrichter@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: gitu
+  visiblename: gitu
+  version: 0.31.0
   origversion: null
   status: outdated
   summary: TUI Git client inspired by Magit
