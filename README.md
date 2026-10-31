@@ -47,12 +47,12 @@ Total: **18,945** lines of code across **113** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 1 | 0 | 0 | 2 | 5 |
-| last60d | 2026-08-31 | 1 | 3 | 0 | 0 | 2 | 11 |
-| 90d | 2026-08-01 | 1 | 7 | 2 | 0 | 3 | 16 |
-| last180d | 2026-05-03 | 3 | 15 | 3 | 3 | 7 | 43 |
-| 360d | 2025-11-04 | 6 | 52 | 14 | 14 | 10 | 115 |
-| last720d | 2024-11-09 | 20 | 111 | 14 | 42 | 27 | 330 |
+| 30d | 2026-10-01 | 1 | 1 | 0 | 0 | 2 | 5 |
+| last60d | 2026-09-01 | 1 | 3 | 0 | 0 | 2 | 11 |
+| 90d | 2026-08-02 | 1 | 7 | 2 | 0 | 3 | 16 |
+| last180d | 2026-05-04 | 3 | 15 | 3 | 3 | 7 | 43 |
+| 360d | 2025-11-05 | 6 | 52 | 14 | 14 | 10 | 115 |
+| last720d | 2024-11-10 | 20 | 111 | 14 | 42 | 27 | 330 |
 
 ## Release assets
 
@@ -66,13 +66,13 @@ Total: **18,945** lines of code across **113** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **29** distros on [repology.org](https://repology.org/project/gitu). **6** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
+Reported by **29** distros on [repology.org](https://repology.org/project/gitu). **10** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.44.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `0.43.0` | ⚠️ outdated |
+| Homebrew | `0.44.0` | ✅ latest |
+| Nix unstable | `0.44.0` | ✅ latest |
 | Void | `0.43.0` | ⚠️ outdated |
 | Alpine edge | `0.43.0` | ⚠️ outdated |
 
@@ -85,4 +85,4 @@ Install metadata for gitu lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:53:30Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:43:25Z._
