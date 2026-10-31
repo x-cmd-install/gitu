@@ -1,14 +1,10 @@
-- repo: nix_stable_25_11
+- repo: homebrew
   srcname: gitu
   visiblename: gitu
-  version: 0.38.0
+  version: 0.44.0
   origversion: null
-  status: outdated
+  status: newest
   summary: TUI Git client inspired by Magit
-  maintainers:
-    - evanjrichter@gmail.com
-  licenses:
-    - MIT
 - repo: homebrew
   srcname: gitu
   visiblename: gitu
@@ -16,6 +12,18 @@
   origversion: null
   status: rolling
   summary: TUI Git client inspired by Magit
+- repo: freebsd
+  srcname: devel/gitu
+  binname: gitu
+  visiblename: devel/gitu
+  version: 0.44.0
+  origversion: null
+  status: newest
+  summary: TUI Git client inspired by Magit
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - devel
 - repo: alpine_3_23
   subrepo: community
   srcname: gitu
@@ -139,25 +147,6 @@
   origversion: null
   status: newest
   summary: A git client inspired by Magit
-- repo: freebsd
-  srcname: devel/gitu
-  binname: gitu
-  visiblename: devel/gitu
-  version: 0.44.0
-  origversion: null
-  status: newest
-  summary: TUI Git client inspired by Magit
-  maintainers:
-    - yuri@freebsd.org
-  categories:
-    - devel
-- repo: homebrew
-  srcname: gitu
-  visiblename: gitu
-  version: 0.44.0
-  origversion: null
-  status: newest
-  summary: TUI Git client inspired by Magit
 - repo: macports
   srcname: devel/gitu
   binname: gitu
@@ -209,9 +198,9 @@
   srcname: mingw-w64-gitu
   binname: mingw-w64-clang-x86_64-gitu
   visiblename: mingw-w64-clang-x86_64-gitu
-  version: 0.43.0
-  origversion: 0.43.0-1
-  status: outdated
+  version: 0.44.0
+  origversion: 0.44.0-1
+  status: newest
   summary: A TUI Git client inspired by Magit (mingw-w64)
   licenses:
     - spdx:MIT
@@ -219,9 +208,9 @@
   srcname: mingw-w64-gitu
   binname: mingw-w64-clang-aarch64-gitu
   visiblename: mingw-w64-clang-aarch64-gitu
-  version: 0.43.0
-  origversion: 0.43.0-1
-  status: outdated
+  version: 0.44.0
+  origversion: 0.44.0-1
+  status: newest
   summary: A TUI Git client inspired by Magit (mingw-w64)
   licenses:
     - spdx:MIT
@@ -229,9 +218,9 @@
   srcname: mingw-w64-gitu
   binname: mingw-w64-ucrt-x86_64-gitu
   visiblename: mingw-w64-ucrt-x86_64-gitu
-  version: 0.43.0
-  origversion: 0.43.0-1
-  status: outdated
+  version: 0.44.0
+  origversion: 0.44.0-1
+  status: newest
   summary: A TUI Git client inspired by Magit (mingw-w64)
   licenses:
     - spdx:MIT
@@ -268,6 +257,17 @@
     - evanjrichter@gmail.com
   licenses:
     - MIT
+- repo: nix_stable_25_11
+  srcname: gitu
+  visiblename: gitu
+  version: 0.38.0
+  origversion: null
+  status: outdated
+  summary: TUI Git client inspired by Magit
+  maintainers:
+    - evanjrichter@gmail.com
+  licenses:
+    - MIT
 - repo: nix_stable_26_05
   srcname: gitu
   visiblename: gitu
@@ -282,9 +282,9 @@
 - repo: nix_unstable
   srcname: gitu
   visiblename: gitu
-  version: 0.43.0
+  version: 0.44.0
   origversion: null
-  status: outdated
+  status: newest
   summary: TUI Git client inspired by Magit
   maintainers:
     - evanjrichter@gmail.com
