@@ -1,29 +1,3 @@
-- repo: homebrew
-  srcname: gitu
-  visiblename: gitu
-  version: 0.44.0
-  origversion: null
-  status: newest
-  summary: TUI Git client inspired by Magit
-- repo: homebrew
-  srcname: gitu
-  visiblename: gitu
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: TUI Git client inspired by Magit
-- repo: freebsd
-  srcname: devel/gitu
-  binname: gitu
-  visiblename: devel/gitu
-  version: 0.44.0
-  origversion: null
-  status: newest
-  summary: TUI Git client inspired by Magit
-  maintainers:
-    - yuri@freebsd.org
-  categories:
-    - devel
 - repo: alpine_3_23
   subrepo: community
   srcname: gitu
@@ -147,6 +121,32 @@
   origversion: null
   status: newest
   summary: A git client inspired by Magit
+- repo: freebsd
+  srcname: devel/gitu
+  binname: gitu
+  visiblename: devel/gitu
+  version: 0.44.0
+  origversion: null
+  status: newest
+  summary: TUI Git client inspired by Magit
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - devel
+- repo: homebrew
+  srcname: gitu
+  visiblename: gitu
+  version: 0.44.0
+  origversion: null
+  status: newest
+  summary: TUI Git client inspired by Magit
+- repo: homebrew
+  srcname: gitu
+  visiblename: gitu
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: TUI Git client inspired by Magit
 - repo: macports
   srcname: devel/gitu
   binname: gitu
@@ -161,28 +161,6 @@
     - MIT
   categories:
     - devel
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: gitu
-  binname: gitu
-  visiblename: gitu
-  version: 0.43.0
-  origversion: 0.43.0-2
-  status: outdated
-  summary: A TUI Git client inspired by Magit
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: gitu
-  binname: gitu
-  visiblename: gitu
-  version: 0.43.0
-  origversion: 0.43.0-2
-  status: outdated
-  summary: A TUI Git client inspired by Magit
-  licenses:
-    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: gitu
