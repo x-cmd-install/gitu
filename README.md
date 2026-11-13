@@ -37,22 +37,22 @@ Total: **18,945** lines of code across **113** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,948 · **Forks**: 171 · **Open issues**: 171 · **Contributors**: 51
+- **Stars**: 2,948 · **Forks**: 172 · **Open issues**: 171 · **Contributors**: 51
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 209 · **Open PRs**: 15 · **Closed issues**: 123 · **Open issues**: 48 · **Commits**: 1239
+- **Releases**: 57 · **Merged PRs**: 209 · **Open PRs**: 16 · **Closed issues**: 123 · **Open issues**: 48 · **Commits**: 1239
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 1 | 1 | 1 | 0 | 3 | 5 |
-| last60d | 2026-09-13 | 1 | 3 | 1 | 0 | 3 | 11 |
-| 90d | 2026-08-14 | 1 | 6 | 3 | 0 | 4 | 12 |
-| last180d | 2026-05-16 | 3 | 14 | 4 | 3 | 7 | 40 |
-| 360d | 2025-11-17 | 5 | 47 | 14 | 13 | 11 | 99 |
-| last720d | 2024-11-22 | 20 | 110 | 15 | 41 | 28 | 327 |
+| 30d | 2026-10-14 | 1 | 1 | 2 | 0 | 3 | 5 |
+| last60d | 2026-09-14 | 1 | 3 | 2 | 0 | 3 | 11 |
+| 90d | 2026-08-15 | 1 | 6 | 4 | 0 | 4 | 12 |
+| last180d | 2026-05-17 | 3 | 14 | 5 | 3 | 7 | 40 |
+| 360d | 2025-11-18 | 5 | 47 | 15 | 13 | 11 | 99 |
+| last720d | 2024-11-23 | 20 | 110 | 16 | 41 | 28 | 327 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for gitu lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:34:54Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T06:52:29Z._
