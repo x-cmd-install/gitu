@@ -14,11 +14,11 @@ x install gitu
 
 ## Code insight
 
-Total: **18,945** lines of code across **113** files in the top 5 languages.
+Total: **19,068** lines of code across **113** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 18,456 | 495 | 2,958 | 105 |
+| Rust | 18,579 | 495 | 2,986 | 105 |
 | Toml | 378 | 225 | 53 | 4 |
 | Nix | 63 | 0 | 8 | 1 |
 | Sh | 17 | 2 | 6 | 2 |
@@ -32,27 +32,27 @@ Total: **18,945** lines of code across **113** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.44.0` (2026-10-28)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-11-26
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 2,963 · **Forks**: 172 · **Open issues**: 171 · **Contributors**: 51
+- **Stars**: 2,964 · **Forks**: 172 · **Open issues**: 171 · **Contributors**: 52
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 209 · **Open PRs**: 16 · **Closed issues**: 123 · **Open issues**: 48 · **Commits**: 1239
+- **Releases**: 57 · **Merged PRs**: 209 · **Open PRs**: 16 · **Closed issues**: 123 · **Open issues**: 48 · **Commits**: 1245
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 1 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-09-27 | 1 | 1 | 2 | 0 | 3 | 5 |
-| 90d | 2026-08-28 | 1 | 3 | 2 | 0 | 3 | 11 |
-| last180d | 2026-05-30 | 2 | 14 | 5 | 3 | 5 | 37 |
-| 360d | 2025-12-01 | 5 | 45 | 14 | 12 | 11 | 98 |
-| last720d | 2024-12-06 | 20 | 110 | 16 | 41 | 28 | 327 |
+| 30d | 2026-10-28 | 1 | 0 | 2 | 0 | 1 | 3 |
+| last60d | 2026-09-28 | 1 | 1 | 2 | 0 | 3 | 11 |
+| 90d | 2026-08-29 | 1 | 3 | 2 | 0 | 3 | 17 |
+| last180d | 2026-05-31 | 2 | 13 | 5 | 3 | 5 | 43 |
+| 360d | 2025-12-02 | 5 | 45 | 14 | 12 | 11 | 104 |
+| last720d | 2024-12-07 | 20 | 109 | 16 | 41 | 28 | 333 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for gitu lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:18:30Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:26:38Z._
